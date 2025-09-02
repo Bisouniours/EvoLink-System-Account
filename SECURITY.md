@@ -25,6 +25,7 @@ La sécurité d'EvoLink est une priorité absolue. Si vous découvrez une vulné
 
 2. **Sécurisé**
    - Utilisez le sujet : `[SECURITY] Vulnérabilité EvoLink`
+   - Ou l'adresse mail : evolink.esa.contact@gmail.com
 
 ### 📋 Informations à inclure
 
