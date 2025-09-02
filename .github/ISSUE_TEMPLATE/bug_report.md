@@ -1,32 +1,32 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+nom : Rapport de bug
+à propos : Créer un rapport pour nous aider à améliorer
+titre: ''
+étiquettes : ''
+cessionnaires : ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Décrivez le bug**
+Une description claire et concise de la nature du bug.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**À reproduire**
+Étapes pour reproduire le comportement :
+1. Allez dans « … »
+2. Cliquez sur '....'
+3. Faites défiler jusqu'à '....'
+4. Voir erreur
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportement attendu**
+Une description claire et concise de ce à quoi vous vous attendiez.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Captures d'écran**
+Le cas échéant, ajoutez des captures d'écran pour expliquer votre problème.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Bureau (veuillez compléter les informations suivantes) :**
+ - Système d'exploitation : [par ex. iOS]
+ - Navigateur [par ex. chrome, safari]
+ - Version [par ex. 22]
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
