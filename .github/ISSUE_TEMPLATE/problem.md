@@ -1,9 +1,9 @@
 ---
-nom : Rapport de bug
-à propos : Créer un rapport pour nous aider à améliorer
-titre: ''
-étiquettes : ''
-cessionnaires : ''
+name: problem
+about: report bug
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

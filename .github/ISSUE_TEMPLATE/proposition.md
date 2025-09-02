@@ -1,9 +1,9 @@
 ---
-nom : Demande de fonctionnalité
-à propos : Suggérer une idée pour ce projet
-titre: ''
-étiquettes : ''
-cessionnaires : ''
+name: proposition
+about: suggestion
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
