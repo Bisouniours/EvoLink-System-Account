@@ -2,6 +2,10 @@
 
 ' Une application, un soutien, une organisation '
 
+Information :
+
+- Mise à jour bientôt disponible ! ( 2.2.0 - mise à jour majeur )
+
 Installation :
 
 - allez sur :
